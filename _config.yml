@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+theme                    : jekyll-theme-minimal
 
 # site settings
 
@@ -8,3 +8,12 @@ title_separator          : "-"
 name                     : &name "Ruobin Gong"
 description              : &description "Statistician"
 url                      : https://RuobinGong.github.io 
+
+# Site Author
+author:
+  name             : "Ruobin Gong"
+  bio              : "Statistician"
+  location         : "Location"
+  employer         : "Rutgers University"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
