@@ -1,8 +1,10 @@
+theme: jekyll-theme-minimal
+
 # site settings
 
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Ruobin Gong / Personal Webpage"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Ruobin Gong"
+description              : &description "Statistician"
 url                      : https://RuobinGong.github.io 
