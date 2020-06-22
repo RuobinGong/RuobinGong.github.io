@@ -1,3 +1,10 @@
-
-
 theme: jekyll-theme-cayman
+
+# site settings
+
+locale                   : "en-US"
+title                    : "Your Name / Site Title"
+title_separator          : "-"
+name                     : &name "Your Name"
+description              : &description "personal description"
+url                      : https://RuobinGong.github.io 
