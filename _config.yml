@@ -3,10 +3,10 @@ theme                    : jekyll-theme-minimal
 # site settings
 
 locale                   : "en-US"
-title                    : "Ruobin Gong / Personal Webpage"
+title                    : "Ruobin Gong"
 title_separator          : "-"
 name                     : &name "Ruobin Gong"
-description              : &description "Statistician"
+description              : &description "Assistant Professor of Statistics, Rutgers University"
 url                      : https://RuobinGong.github.io 
 
 # Site Author
