@@ -8,6 +8,8 @@ date: 2020-02-01
 location: "New Brunswick, NJ, USA"
 ---
 
+
+
 #### Overview
 
 An introduction to statistical methodologies for time series and their applications. Stationary processes, estimation of trend, linear processes, ARMA and ARIMA models, model building, diagnostics, and forecasting. Select advanced time series topics including seasonal models, nonlinear models, state space models, and spectral analysis of time series. Data analysis with computational software is emphasized.
