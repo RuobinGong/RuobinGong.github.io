@@ -1,9 +1,9 @@
 ---
 title: "Applied Time Series Analysis"
 collection: teaching
-type: "graduate course"
+type: "Graduate course"
 permalink: /teaching/stat565
-venue: "Rutgers University, Department of Statistics"
+venue: "Rutgers University"
 date: 2020-02-01
 location: "New Brunswick, NJ, USA"
 
