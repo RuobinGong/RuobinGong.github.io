@@ -1,15 +1,11 @@
 ---
-title: "Paper Title Number 1"
+title: "Contradictory conclusions in analysis of brain functional networks: the role of image registration"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2013-01-01-Taquet
+excerpt: 'The choice of a registration method is critical to population studies of functional brain networks and may influence their conclusions.'
+date: 2013-01-01
+venue: 'Organization for Human Brain Mapping (OHBM)'
+
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+M Taquet, R Gong, SK Warfield (2013). The choice of a registration method is critical to population studies of functional brain networks and may influence their conclusions.
