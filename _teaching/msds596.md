@@ -1,7 +1,7 @@
 ---
-title: "MSDS596: Regression and Time Series"
+title: "Regression and Time Series"
 collection: teaching
-type: "Graduate course"
+type: "graduate course"
 permalink: /teaching/msds596
 venue: "Rutgers University, Department of Statistics"
 date: 2020-09-01
