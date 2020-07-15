@@ -6,6 +6,7 @@ permalink: /teaching/stat565
 venue: "Rutgers University, Department of Statistics"
 date: 2020-02-01
 location: "New Brunswick, NJ, USA"
+
 ---
 
 
