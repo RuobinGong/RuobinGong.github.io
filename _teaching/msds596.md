@@ -8,6 +8,8 @@ date: 2020-09-01
 location: "New Brunswick, NJ, USA"
 ---
 
+ 
+ 
 #### Overview
 
 An introduction to statistical methods with linear models and time series models. Inference and prediction of linear models and their extensions. Model checking, refinement and selection. Classic and advanced time series including estimation and forecasting of ARIMA models and state space models. Data analysis with computational software is emphasized.
