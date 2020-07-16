@@ -8,9 +8,13 @@ author_profile: true
 
 {% include base_path %}
 
-Education
------
+#### Education
+
 * Ph.D. in Statistics, 2018 (A.M. 2013), Harvard University
 * Hon B.Sc. in Cognitive Psychology, 2011, University of Toronto
 
 Here's my CV (as of summer 2020).
+
+#### Contact
+
+ruobin [dot] gong [at] rutgers [dot] edu
