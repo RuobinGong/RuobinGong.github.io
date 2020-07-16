@@ -1,10 +1,10 @@
 ---
 title: "Simultaneous Inference Under the Vacuous Orientation Assumption"
 collection: publications
-permalink: /publication/2019-07-03-simultaneous
+permalink: /publication/2019simultaneous
 excerpt: ''
 date: 2019-07-03
-venue: 'PMLR 103:225-234'
+venue: 'PMLR 103, 225-234'
 author: 'R Gong'
 
 ---
