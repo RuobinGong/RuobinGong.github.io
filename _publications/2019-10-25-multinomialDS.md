@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2019-10-25-multinomialDS
 excerpt: ''
 date: 2019-10-25
-venue: 'arXiv:1910.11953'
+venue: 'ArXiv:1910.11953'
 author: 'PE Jacob, R Gong, PT Edlefsen'
 
 ---
