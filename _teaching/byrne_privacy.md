@@ -10,8 +10,9 @@ location: "New Brunswick, NJ, USA"
 ---
 
 
-[Course Website (Canvas)](https://rutgers.instructure.com/courses/64491/assignments/syllabus)
+[Course Website (Rutgers Canvas)](https://rutgers.instructure.com/courses/64491/assignments/syllabus)
  
+
 #### Overview
 
 The digital world we live in produces an explosive amount of personal data on a daily basis. From demographic surveys to biomedical studies, and to user information from massive online platforms such as Facebook and Netflix, large-scale collections of human data are translated into open-source databases or formats accessible for scientific research, as they play a crucial part in informing our collective biological and social functioning. While data transparency is key to fostering public knowledge and improving research reproducibility, it poses the risk of exposing the confidential information of respondents, patients and clients, violating their privacy. What measures can we take as a society to ensure effective learning from data, while at the same time respecting individuals’ rightful claim to privacy?
@@ -20,22 +21,22 @@ In this class, we trace the historical and modern developments of privacy, and e
 
 #### Reading
 
-* Why statistical privacy?
-  * Duncan, G. T., Elliot, M., & Salazar-González, J. J. (2011). Why Statistical Confidentiality?. In Statistical Confidentiality (pp. 1-26). Springer, New York, NY.
-* Breaching privacy
-  * Narayanan, A., & Shmatikov, V. (2008, May). Robust de-anonymization of large sparse datasets. In 2008 IEEE Symposium on Security and Privacy (sp 2008) (pp. 111-125). IEEE.
-* Statistical privacy: traditional approaches
-  * Abowd, J. M., & Schmutte, I. M. (2015). Economic analysis and statistical disclosure limitation. Brookings Papers on Economic Activity, 2015(1), 221-293. 
-* Privacy – accuracy tradeoff
-  * Dinur, I., & Nissim, K. (2003). Revealing information while preserving privacy. In Proceedings of the twenty-second ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems (pp. 202-210). ACM.
-* Differential privacy
-  * Dwork, C., McSherry, F., Nissim, K., & Smith, A. (2006). Calibrating noise to sensitivity in private data analysis. In Theory of cryptography conference (pp. 265-284). Springer, Berlin, Heidelberg.
-* Implications of differential privacy
-  * Oberski, D. L., & Kreuter, F. (2020). Differential Privacy and Social Science: An Urgent Puzzle. Harvard Data Science Review, 2(1).
-* Transparent privacy
-  * Gong, R. (2020). Transparent Privacy is Principled Privacy. ArXiv:2006.08522
-* Privacy and the 2020 U.S. Decennial Census
-  * Sullivan, T. A. (2020). Coming To Our Census: How Social Statistics Underpin Our Democracy (And Republic). Harvard Data Science Review, 2(1).
-* Privacy and data ethics
-  * Hand, D. J. (2018). Aspects of data ethics in a changing world: where are we now?. Big data, 6(3), 176-190.
+* **Why statistical privacy?**
+  * Duncan, G. T., Elliot, M., & Salazar-González, J. J. (2011). Why Statistical Confidentiality?. _In Statistical Confidentiality_ (pp. 1-26). Springer, New York, NY.
+* **Breaching privacy**
+  * Narayanan, A., & Shmatikov, V. (2008, May). Robust de-anonymization of large sparse datasets. _In 2008 IEEE Symposium on Security and Privacy_ (sp 2008) (pp. 111-125). IEEE.
+* **Statistical privacy: traditional approaches**
+  * Abowd, J. M., & Schmutte, I. M. (2015). Economic analysis and statistical disclosure limitation. _Brookings Papers on Economic Activity_, 2015(1), 221-293. 
+* **Privacy – accuracy tradeoff**
+  * Dinur, I., & Nissim, K. (2003). Revealing information while preserving privacy. _In Proceedings of the twenty-second ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems_ (pp. 202-210). ACM.
+* **Differential privacy**
+  * Dwork, C., McSherry, F., Nissim, K., & Smith, A. (2006). Calibrating noise to sensitivity in private data analysis. _In Theory of cryptography conference_ (pp. 265-284). Springer, Berlin, Heidelberg.
+* **Implications of differential privacy**
+  * Oberski, D. L., & Kreuter, F. (2020). Differential Privacy and Social Science: An Urgent Puzzle. _Harvard Data Science Review_, 2(1).
+* **Transparent privacy**
+  * Gong, R. (2020). Transparent Privacy is Principled Privacy. _ArXiv:2006.08522_
+* **Privacy and the 2020 U.S. Decennial Census**
+  * Sullivan, T. A. (2020). Coming To Our Census: How Social Statistics Underpin Our Democracy (And Republic). _Harvard Data Science Review_, 2(1).
+* **Privacy and data ethics**
+  * Hand, D. J. (2018). Aspects of data ethics in a changing world: where are we now?. _Big data_, 6(3), 176-190.
 
