@@ -4,7 +4,7 @@ collection: teaching
 type: "Byrne Seminar"
 permalink: /teaching/byrne_privacy
 venue: "Rutgers University"
-date: 2020-09-01
+date: 2020-09-02
 location: "New Brunswick, NJ, USA"
 
 ---
