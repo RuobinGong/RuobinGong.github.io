@@ -18,5 +18,24 @@ The digital world we live in produces an explosive amount of personal data on a 
 
 In this class, we trace the historical and modern developments of privacy, and examine challenges around the execution of this concept from a multi-disciplinary perspective that integrates statistics, computer science, and economics. In a sense, privacy is the antithesis to information, thus the quest for privacy poses a fundamental dilemma to the growth of public knowledge. We weigh the social and policy implications of the inherent tradeoff between privacy and utility. We also take a close look at the recent development of a new mathematical framework for privacy, called differential privacy, and its adoption to protect the release of the 2020 U.S. Decennial Census. Philosophical implications of privacy on the broader subject of data ethics will also be discussed.  
 
+#### Reading
 
+* Why statistical privacy?
+  * Duncan, G. T., Elliot, M., & Salazar-González, J. J. (2011). Why Statistical Confidentiality?. In Statistical Confidentiality (pp. 1-26). Springer, New York, NY.
+* Breaching privacy
+  * Narayanan, A., & Shmatikov, V. (2008, May). Robust de-anonymization of large sparse datasets. In 2008 IEEE Symposium on Security and Privacy (sp 2008) (pp. 111-125). IEEE.
+* Statistical privacy: traditional approaches
+  * Abowd, J. M., & Schmutte, I. M. (2015). Economic analysis and statistical disclosure limitation. Brookings Papers on Economic Activity, 2015(1), 221-293. 
+* Privacy – accuracy tradeoff
+  * Dinur, I., & Nissim, K. (2003). Revealing information while preserving privacy. In Proceedings of the twenty-second ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems (pp. 202-210). ACM.
+* Differential privacy
+  * Dwork, C., McSherry, F., Nissim, K., & Smith, A. (2006). Calibrating noise to sensitivity in private data analysis. In Theory of cryptography conference (pp. 265-284). Springer, Berlin, Heidelberg.
+* Implications of differential privacy
+  * Oberski, D. L., & Kreuter, F. (2020). Differential Privacy and Social Science: An Urgent Puzzle. Harvard Data Science Review, 2(1).
+* Transparent privacy
+  * Gong, R. (2020). Transparent Privacy is Principled Privacy. ArXiv:2006.08522
+* Privacy and the 2020 U.S. Decennial Census
+  * Sullivan, T. A. (2020). Coming To Our Census: How Social Statistics Underpin Our Democracy (And Republic). Harvard Data Science Review, 2(1).
+* Privacy and data ethics
+  * Hand, D. J. (2018). Aspects of data ethics in a changing world: where are we now?. Big data, 6(3), 176-190.
 
