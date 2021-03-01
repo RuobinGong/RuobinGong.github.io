@@ -9,6 +9,8 @@ author: 'R Gong, JB Kadane, MJ Schervish, T Seidenfeld, RB Stern'
 
 ---
 
+[Preprint](https://ruobingong.github.io/files/ERGO-submitted.pdf)
+
 
 A familiar defense of Personalist or Subjective Bayesian theory is that, under a variety of
 sufficient conditions, asymptotically – with increasing shared evidence – almost surely, each
