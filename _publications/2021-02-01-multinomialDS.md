@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/2021-02-01-multinomialDS
 excerpt: ''
 date: 2021-02-01
-venue: 'JASA (with discussion, to appear 2021)'
-author: 'PE Jacob, R Gong, PT Edlefsen'
+venue: 'JASA (with discussion, to appear)'
+author: 'PE Jacob, R Gong, PT Edlefsen, AP Dempster'
 
 ---
 
