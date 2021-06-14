@@ -5,7 +5,7 @@ permalink: /publication/2020-08-01-congenial
 excerpt: ''
 date: 2020-08-01
 venue: 'ACM-IMS Foundations of Data Science Conference (FODS-2020)'
-author: 'R Gong and XL Meng'
+author: 'R Gong, XL Meng'
 
 ---
 
