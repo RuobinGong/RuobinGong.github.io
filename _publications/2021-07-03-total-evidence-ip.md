@@ -1,5 +1,5 @@
 ---
-title: "Simultaneous Inference Under the Vacuous Orientation Assumption"
+title: "Total Evidence and Learning with Imprecise Probabilities"
 collection: publications
 permalink: /publication/2021-07-03-total-evidence-ip
 excerpt: ''
