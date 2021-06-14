@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-02-01-deceptive
 excerpt: ''
 date: 2020-02-01-deceptive
-venue: 'ERGO (to appear)'
+venue: 'ERGO, an Open Access Journal of Philosophy (to appear)'
 author: 'R Gong, JB Kadane, MJ Schervish, T Seidenfeld, RB Stern'
 
 ---
