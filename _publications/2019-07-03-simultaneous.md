@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2019-07-03-simultaneous
 excerpt: ''
 date: 2019-07-03
-venue: 'Proceedings of the 11th ISIPTA, PMLR 103, 225-234'
+venue: 'Proceedings of the Eleventh International Symposium on Imprecise Probabilities: Theories and Applications, PMLR 103:225-234'
 author: 'R Gong'
 
 ---
