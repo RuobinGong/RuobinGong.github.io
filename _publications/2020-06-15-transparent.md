@@ -1,9 +1,9 @@
 ---
 title: "Transparent Privacy is Principled Privacy"
 collection: publications
-permalink: /publication/2019-06-15-transparent
+permalink: /publication/2020-06-15-transparent
 excerpt: ''
-date: 2019-06-15
+date: 2020-06-15
 venue: 'ArXiv:2006.08522'
 author: 'R Gong'
 
