@@ -4,12 +4,12 @@ collection: publications
 permalink: /publication/2020-02-01-deceptive
 excerpt: ''
 date: 2020-02-01-deceptive
-venue: 'ERGO, an Open Access Journal of Philosophy (to appear)'
+venue: 'ERGO 7'
 author: 'R Gong, JB Kadane, MJ Schervish, T Seidenfeld, RB Stern'
 
 ---
 
-[Preprint](https://ruobingong.github.io/files/ERGO-submitted.pdf)
+[Paper](https://doi.org/10.3998/ergo.1125)
 
 
 A familiar defense of Personalist or Subjective Bayesian theory is that, under a variety of
