@@ -13,9 +13,9 @@ author_profile: true
 * Ph.D. in Statistics, 2018 (A.M. 2013), Harvard University
 * Hon B.Sc. in Cognitive Psychology, 2011, University of Toronto
 
-[My CV](https://docs.google.com/viewer?url=https://github.com/RuobinGong/RuobinGong.github.io/blob/3b67fb65d7104babcc8b6a0c50e761775b5a7c81/files/RG-cv.pdf)
+[My CV.](RuobinGong.github.io/files/RG-cv.pdf)
 
-<a href="RuobinGong.github.io/files/RG-cv.pdf" target="_blank">PDF.</a>
+<a href="RuobinGong.github.io/files/RG-cv.pdf" target="_blank">PDF</a>
 
 files/RG-cv.pdf
 
