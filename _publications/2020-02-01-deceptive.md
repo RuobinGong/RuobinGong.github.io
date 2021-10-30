@@ -9,7 +9,7 @@ author: 'R Gong, JB Kadane, MJ Schervish, T Seidenfeld, RB Stern'
 
 ---
 
-[Paper](https://doi.org/10.3998/ergo.1125)
+[Paper](https://doi.org/10.3998/ergo.1125) (open access)
 
 
 A familiar defense of Personalist or Subjective Bayesian theory is that, under a variety of
