@@ -189,7 +189,10 @@ collections:
     permalink: /:collection/:path/
   publications_foundation:
     output: true
-    permalink: /publications/:path/
+    permalink: /:collection/:path/
+  publications_privacy:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -225,6 +228,24 @@ defaults:
   - scope:
       path: ""
       type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _publications_foundation
+  - scope:
+      path: ""
+      type: publications_foundation
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _publications_privacy
+  - scope:
+      path: ""
+      type: publications_privacy
     values:
       layout: single
       author_profile: true
