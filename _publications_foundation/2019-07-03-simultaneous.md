@@ -1,6 +1,6 @@
 ---
 title: "Simultaneous Inference Under the Vacuous Orientation Assumption"
-collection: publications
+collection: publications_foundation
 permalink: /publication/2019-07-03-simultaneous
 excerpt: ''
 date: 2019-07-03
