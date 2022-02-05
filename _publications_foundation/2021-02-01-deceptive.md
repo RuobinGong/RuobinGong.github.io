@@ -1,15 +1,15 @@
 ---
 title: "Deceptive Credences"
 collection: publications_foundation
-permalink: /publications/2023-02-01-deceptive
+permalink: /publications/2021-02-01-deceptive
 excerpt: ''
-date: 2023-02-01
+date: 2021-02-01
 venue: 'ERGO 7'
 author: 'R Gong, JB Kadane, MJ Schervish, T Seidenfeld, RB Stern'
 
 ---
 
-[Paper](https://doi.org/10.3998/ergo.1125) (open access)
+[ERGO](https://doi.org/10.3998/ergo.1125) (open access)
 
 
 A familiar defense of Personalist or Subjective Bayesian theory is that, under a variety of
