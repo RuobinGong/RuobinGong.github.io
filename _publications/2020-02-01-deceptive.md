@@ -3,7 +3,7 @@ title: "Deceptive Credences"
 collection: publications
 permalink: /publication/2020-02-01-deceptive
 excerpt: ''
-date: 2020-02-01-deceptive
+date: 2020-02-01
 venue: 'ERGO 7'
 author: 'R Gong, JB Kadane, MJ Schervish, T Seidenfeld, RB Stern'
 
