@@ -1,6 +1,6 @@
 ---
 title: 'Congenial Differential Privacy under Mandated Disclosure'
-collection: publications
+collection: publications_privacy
 permalink: /publication/2020-08-01-congenial
 excerpt: ''
 date: 2020-08-01
