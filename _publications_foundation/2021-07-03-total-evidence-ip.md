@@ -1,5 +1,5 @@
 ---
-title: "Total Evidence and Learning with Imprecise Probabilities"
+title: "Total evidence and learning with imprecise probabilities"
 collection: publications_foundation
 permalink: /publication/2021-07-03-total-evidence-ip
 excerpt: ''
