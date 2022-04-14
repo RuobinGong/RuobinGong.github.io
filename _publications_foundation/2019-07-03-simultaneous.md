@@ -1,5 +1,5 @@
 ---
-title: "Simultaneous Inference Under the Vacuous Orientation Assumption"
+title: "Simultaneous inference under the vacuous orientation assumption"
 collection: publications_foundation
 permalink: /publication/2019-07-03-simultaneous
 excerpt: ''
