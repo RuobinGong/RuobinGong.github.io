@@ -1,5 +1,5 @@
 ---
-title: 'Congenial Differential Privacy under Mandated Disclosure'
+title: 'Congenial differential privacy under mandated disclosure'
 collection: publications_privacy
 permalink: /publication/2020-08-01-congenial
 excerpt: ''
