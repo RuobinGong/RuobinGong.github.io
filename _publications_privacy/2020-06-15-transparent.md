@@ -1,5 +1,5 @@
 ---
-title: "Transparent Privacy is Principled Privacy"
+title: "Transparent privacy is principled privacy"
 collection: publications
 permalink: /publication/2020-06-15-transparent
 excerpt: ''
