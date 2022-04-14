@@ -1,5 +1,5 @@
 ---
-title: "Deceptive Credences"
+title: "Deceptive credences"
 collection: publications_foundation
 permalink: /publications/2021-02-01-deceptive
 excerpt: ''
