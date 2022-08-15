@@ -13,9 +13,8 @@ I'm an Assistant Professor of Statistics at [Rutgers University](https://www.sta
 
 
 <br>
-<br>
 
-### News
+## News
 
 * **Harvard Data Science Review** Special Issue 2 - [Differential Privacy and the 2020 Census: Can We Make Data Both Private and Useful?](https://hdsr.mitpress.mit.edu/specialissue2) _**Podcast with Co-Editors Erica Groshen, Salil Vadhan and myself** (Episode 18; [Podbean](https://hdsr.podbean.com/e/differential-privacy-for-the-2020-us-census-can-we-make-data-both-private-and-useful-part-1/)/[Apple](https://podcasts.apple.com/us/podcast/differential-privacy-for-the-2020-u-s-census-can-we/id1558728983?i=1000571597321)/[Spotify](https://open.spotify.com/episode/4A9ahGLv5r58LJX8Alxg19))_
 * **NBER Workshop Series**: [Data Privacy Protection and the Conduct of Applied Research: Methods, Approaches and their Consequences](https://www.nber.org/data-privacy-protection-and-conduct-applied-research-methods-approaches-and-their-consequences), May 4-5, 2023. _**Call for papers is live** (deadline: September 12, 2022)!_
