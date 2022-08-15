@@ -17,8 +17,8 @@ I'm an Assistant Professor of Statistics at [Rutgers University](https://www.sta
 
 ### News
 
-* [Data Privacy Protection and the Conduct of Applied Research: Methods, Approaches and their Consequences](https://www.nber.org/data-privacy-protection-and-conduct-applied-research-methods-approaches-and-their-consequences): NBER Workshop Series (May 4-5, 2023). **Call for Papers** (deadline: September 12, 2022)
-* [Workshop on the Analysis of Census Noisy Measurement Files and Differential Privacy](http://dimacs.rutgers.edu/events/details?eID=2038) (April 28-29, 2022): videos are now available [(YouTube)](https://www.youtube.com/playlist?list=PLKVCRT3MRed733-w2Lo2yvCAkac9zdIVj)
-* [SIPTA Seminar](https://sipta.org/events/sipta-seminars/): _Imprecise probabilities in modern data science: challenges and opportunities_ [(YouTube)](https://www.youtube.com/watch?v=rNVWyG-0XgA)
-* [Data Augmentation MCMC for Bayesian Inference from Privatized Data](http://www.fields.utoronto.ca/talks/Data-Augmentation-MCMC-Bayesian-Inference-Privatized-Data): Fields Instittue Workshop on Differential Privacy and Statistical Data Analysis
+* **NBER Workshop Series**: [Data Privacy Protection and the Conduct of Applied Research: Methods, Approaches and their Consequences](https://www.nber.org/data-privacy-protection-and-conduct-applied-research-methods-approaches-and-their-consequences), May 4-5, 2023. **Call for Papers is Live** (deadline: September 12, 2022)
+* **DIMACS Workshop**: [Analysis of Census Noisy Measurement Files and Differential Privacy](http://dimacs.rutgers.edu/events/details?eID=2038), April 28-29, 2022. Videos are now available (watch on [YouTube](https://www.youtube.com/playlist?list=PLKVCRT3MRed733-w2Lo2yvCAkac9zdIVj))
+* **My** [**SIPTA**](https://sipta.org/events/sipta-seminars/) **Seminar**:_Imprecise probabilities in modern data science: challenges and opportunities_ (watch on [YouTube](https://www.youtube.com/watch?v=rNVWyG-0XgA))
+* Talk at the Fields Institute Workshop on **Differential Privacy and Statistical Data Analysis**: [Data Augmentation MCMC for Bayesian Inference from Privatized Data](http://www.fields.utoronto.ca/talks/Data-Augmentation-MCMC-Bayesian-Inference-Privatized-Data) (video)
 
