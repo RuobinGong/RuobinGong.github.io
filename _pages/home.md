@@ -17,7 +17,7 @@ I'm an Assistant Professor of Statistics at [Rutgers University](https://www.sta
 
 ### News
 
-* [Call for Papers](https://www.nber.org/data-privacy-protection-and-conduct-applied-research-methods-approaches-and-their-consequences): NBER Workshop Series - _Data Privacy Protection and the Conduct of Applied Research: Methods, Approaches and their Consequences_ (May 4-5, 2023)
+* [Data Privacy Protection and the Conduct of Applied Research: Methods, Approaches and their Consequences](https://www.nber.org/data-privacy-protection-and-conduct-applied-research-methods-approaches-and-their-consequences): NBER Workshop Series (May 4-5, 2023). *Call for Papers*
 * [Workshop on the Analysis of Census Noisy Measurement Files and Differential Privacy](http://dimacs.rutgers.edu/events/details?eID=2038) (April 28-29, 2022): videos are now available [(YouTube)](https://www.youtube.com/playlist?list=PLKVCRT3MRed733-w2Lo2yvCAkac9zdIVj)
 * [SIPTA Seminar](https://sipta.org/events/sipta-seminars/): _Imprecise probabilities in modern data science: challenges and opportunities_ [(YouTube)](https://www.youtube.com/watch?v=rNVWyG-0XgA)
 
