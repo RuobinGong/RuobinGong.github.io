@@ -4,7 +4,7 @@ collection: publications_foundation
 permalink: /publication/2022-09-08-total-evidence-ip
 excerpt: ''
 date: 2022-09-08
-venue: 'International Journal of Approximate Reasoning, doi:10.1016/j.ijar.2022.08.016'
+venue: 'International Journal of Approximate Reasoning'
 author: 'R Gong, JB Kadane, MJ Schervish, T Seidenfeld, RB Stern'
 
 ---
