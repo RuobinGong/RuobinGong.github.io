@@ -16,6 +16,8 @@ I'm an Assistant Professor of Statistics at [Rutgers University](https://www.sta
 
 ## News
 
+
+* [Foundations of Probability Seminar](https://foundationsofprobabilityseminar.com) continues in Fall 2022!
 * Our paper, [Data Augmentation MCMC for Bayesian Inference from Privatized Data](https://ruobingong.github.io/publication/2022-06-01-DAMCMC), has been accepted at **NeurIPS 2022**. _Watch my talk about this work at the [Fields Workshop on Differential Privacy and Statistical Data Analysis](http://www.fields.utoronto.ca/talks/Data-Augmentation-MCMC-Bayesian-Inference-Privatized-Data)._ Joint work with Nianqiao Ju, Jordan Awan, and Vinayak Rao of Purdue Univerity. 
 * **Harvard Data Science Review** Special Issue 2 - [Differential Privacy and the 2020 Census: Can We Make Data Both Private and Useful](https://hdsr.mitpress.mit.edu/specialissue2)?  _**Listen to the podcast** with Co-Editors Erica Groshen, Salil Vadhan and myself ([Podbean](https://hdsr.podbean.com/e/differential-privacy-for-the-2020-us-census-can-we-make-data-both-private-and-useful-part-1/)/[Apple](https://podcasts.apple.com/us/podcast/differential-privacy-for-the-2020-u-s-census-can-we/id1558728983?i=1000571597321)/[Spotify](https://open.spotify.com/episode/4A9ahGLv5r58LJX8Alxg19))_
 * **NBER Workshop Series**: [Data Privacy Protection and the Conduct of Applied Research: Methods, Approaches and their Consequences](https://www.nber.org/conferences/data-privacy-protection-and-conduct-applied-research-methods-approaches-and-their-consequences). May 4-5, 2023, Cambridge, MA. Co-organized with V. Joseph Hotz and Ian Schmutte. 
