@@ -18,7 +18,7 @@ author_profile: true
 
 ### Sound the Gong
 
-My contributed column for the IMS Bulletin, in which I chronicle the enlightening (and often delightful) experiences in the statistics profession and data science education.
+My contributed column for the IMS Bulletin, in which I chronicle some enlightening (and _mostly_ delightful) experiences in the statistics profession and data science education.
 
 * In defense of an _explicandum_ ([file](https://RuobinGong.github.io/files/Gong2022-IMS51-7.pdf))
 * A conversation with Claire McKay Bowen ([link](https://imstat.org/2022/04/01/ruobin-gong-interviews-claire-mckay-bowen/))
