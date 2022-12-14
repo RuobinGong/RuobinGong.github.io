@@ -6,6 +6,7 @@ permalink: /teaching/msds596
 venue: "Rutgers University"
 date: 2018-09-01
 semester: "2018f, 2019f, 2020f"
+coursecode: "16:960:594"
 location: "New Brunswick, NJ, USA"
 
 ---
