@@ -1,10 +1,11 @@
 ---
-title: "Privacy in the Digital World: from Netflix to the Census"
+title: "Byrne Seminar - Privacy in the Digital World: from Netflix to the Census"
 collection: teaching
-type: "Byrne Seminar"
+type: "Freshman seminar"
 permalink: /teaching/byrne_privacy
 venue: "Rutgers University"
 date: 2020-09-01
+semester: "2020f"
 location: "New Brunswick, NJ, USA"
 
 ---
