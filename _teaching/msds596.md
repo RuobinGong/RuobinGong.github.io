@@ -5,6 +5,7 @@ type: "graduate course"
 permalink: /teaching/msds596
 venue: "Rutgers University"
 date: 2020-09-01
+semester: "2018f, 2019f, 2020f"
 location: "New Brunswick, NJ, USA"
 
 ---
