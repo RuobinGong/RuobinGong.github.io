@@ -1,5 +1,5 @@
 ---
-title: "A Gibbs sampler for a class of random convex polytopes (with discussion)"
+title: "A Gibbs sampler for a class of random convex polytopes (with discussion and rejoinder)"
 collection: publications_foundation
 permalink: /publication/2021-08-01-multinomialDS
 excerpt: ''
