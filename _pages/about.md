@@ -20,6 +20,8 @@ author_profile: true
 
 My contributed column for the IMS Bulletin, in which I chronicle some enlightening (and _mostly_ delightful) experiences in the statistics profession and data science education.
 
+
+* The laws of the jungle: data science edition ([file](https://RuobinGong.github.io/files/Gong2023-IMS52-1.pdf))
 * In defense of an _explicandum_ ([file](https://RuobinGong.github.io/files/Gong2022-IMS51-7.pdf))
 * A conversation with Claire McKay Bowen ([link](https://imstat.org/2022/04/01/ruobin-gong-interviews-claire-mckay-bowen/))
 * Going remote and back again: lessons learned ([file](https://RuobinGong.github.io/files/Gong2021-IMS50-6.pdf))
