@@ -6,6 +6,7 @@ permalink: /teaching/byrne_privacy
 venue: "Rutgers University"
 date: 2020-09-01
 semester: "2020f"
+coursecode: "01:090:101:14"
 location: "New Brunswick, NJ, USA"
 
 ---
