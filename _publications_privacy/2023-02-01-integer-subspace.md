@@ -4,7 +4,7 @@ collection: publications_privacy
 permalink: /publication/2023-02-01-integer-subspace
 excerpt: ''
 date: 2023-02-01
-venue: 'Accepted at the Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI-23)'
+venue: 'Accepted at AAAI-23'
 author: 'P Dharangutte, J Gao, R Gong, FY Yu'
 
 ---
