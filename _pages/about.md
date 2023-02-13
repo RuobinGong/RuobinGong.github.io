@@ -10,8 +10,8 @@ author_profile: true
 
 ### Education
 
-* Ph.D. in Statistics, 2018 (A.M. 2013), Harvard University
-* Hon B.Sc. in Cognitive Psychology, 2011, University of Toronto
+* Ph.D., Statistics, 2018, Harvard University
+* B.Sc. (with Honours), Cognitive Psychology, 2011, University of Toronto
 
 [My CV.](https://RuobinGong.github.io/files/RG-cv.pdf)
 
