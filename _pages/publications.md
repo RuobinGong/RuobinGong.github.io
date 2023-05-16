@@ -8,6 +8,8 @@ author_profile: true
 
 {% include base_path %}
 
+For a complete list of publications, please refer to [my CV](https://RuobinGong.github.io/files/RG-cv.pdf).
+
 ## On inference foundations
 
 {% for post in site.publications_foundation reversed %}
