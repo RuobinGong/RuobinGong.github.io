@@ -11,7 +11,7 @@ author_profile: true
 ### Education
 
 * Ph.D., Statistics, 2018, Harvard University
-* Hon. B.Sc. (high distinction), Psychology (specialist) and Statistics (major), 2011, University of Toronto
+* Hon. B.Sc. (high distinction), Psychology (specialist) & Statistics (major), 2011, University of Toronto
 
 Here's [my CV](https://RuobinGong.github.io/files/RG-cv.pdf).
 
