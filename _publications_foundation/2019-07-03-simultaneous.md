@@ -4,7 +4,7 @@ collection: publications_foundation
 permalink: /publication/2019-07-03-simultaneous
 excerpt: ''
 date: 2019-07-03
-venue: 'ISIPTA 2019'
+venue: 'ISIPTA'
 author: 'R Gong'
 
 ---
