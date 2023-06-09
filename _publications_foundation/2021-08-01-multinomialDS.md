@@ -4,7 +4,7 @@ collection: publications_foundation
 permalink: /publication/2021-08-01-multinomialDS
 excerpt: ''
 date: 2021-08-01
-venue: 'Journal of the American Statistical Association 116:535, 1181-1192'
+venue: 'Journal of the American Statistical Association'
 author: 'PE Jacob, R Gong, PT Edlefsen, AP Dempster'
 
 ---
