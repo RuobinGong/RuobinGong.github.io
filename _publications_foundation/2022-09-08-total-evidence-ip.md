@@ -10,7 +10,7 @@ author: 'R Gong, JB Kadane, MJ Schervish, T Seidenfeld, RB Stern'
 ---
 
 
-[Link to Paper](https://www.sciencedirect.com/science/article/abs/pii/S0888613X22001281)
+[Link (IJAR)](https://www.sciencedirect.com/science/article/abs/pii/S0888613X22001281)
 
 In dynamic learning, a rational agent must revise their credence about a question of interest in accordance with the total evidence available between the earlier and later times. We discuss situations in which an observable event F that is sufficient for the total evidence can be identified, yet its probabilistic modeling cannot be performed in a precise manner. The agent may employ imprecise (IP) models of reasoning to account for the identified sufficient event, and perform change of credence or sequential decisions accordingly. Our proposal is illustrated with four case studies: the classic Monty Hall problem, statistical inference with non-ignorable missing data, frequentist hypothesis testing, and the use of forward induction in a two-person sequential game.
 
