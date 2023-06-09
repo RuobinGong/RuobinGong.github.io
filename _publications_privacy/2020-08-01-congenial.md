@@ -4,7 +4,7 @@ collection: publications_privacy
 permalink: /publication/2020-08-01-congenial
 excerpt: ''
 date: 2020-08-01
-venue: 'Proceedings of the 2020 ACM-IMS on Foundations of Data Science Conference (FODS-20). Association for Computing Machinery, New York, NY, USA, 59–70'
+venue: 'FODS-20'
 author: 'R Gong, XL Meng'
 
 ---
