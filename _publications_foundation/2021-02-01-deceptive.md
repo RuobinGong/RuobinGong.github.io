@@ -4,12 +4,12 @@ collection: publications_foundation
 permalink: /publications/2021-02-01-deceptive
 excerpt: ''
 date: 2021-02-01
-venue: 'ERGO'
+venue: 'Ergo'
 author: 'R Gong, JB Kadane, MJ Schervish, T Seidenfeld, RB Stern'
 
 ---
 
-[Link (ERGO)](https://doi.org/10.3998/ergo.1125)
+[Link (Ergo)](https://doi.org/10.3998/ergo.1125)
 
 
 A familiar defense of Personalist or Subjective Bayesian theory is that, under a variety of
