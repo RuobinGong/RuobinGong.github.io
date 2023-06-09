@@ -18,7 +18,7 @@ Here's [my CV](https://RuobinGong.github.io/files/RG-cv.pdf).
 
 ### Sound the Gong
 
-I contribute a column for the IMS Bulletin, in which I chronicle some enlightening (and mostly delightful) experiences in the statistics profession and data science education.
+I write a contributed column for the IMS Bulletin, in which I chronicle some enlightening (and mostly delightful) experiences in the statistics profession and data science education.
 
 
 * The laws of the jungle: data science edition ([file](https://RuobinGong.github.io/files/Gong2023-IMS52-1.pdf))
