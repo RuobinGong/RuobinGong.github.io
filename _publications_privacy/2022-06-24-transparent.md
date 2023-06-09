@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-06-24-transparent
 excerpt: ''
 date: 2022-06-24
-venue: 'Harvard Data Science Review (Special Issue 2)'
+venue: 'Harvard Data Science Review'
 author: 'R Gong'
 
 ---
