@@ -22,7 +22,7 @@ For a complete list of publications, please refer to [my CV](https://RuobinGong.
   {% include archive-single.html %}
 {% endfor %}
 
-## On other data science topics
+## Data science and related topics
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
