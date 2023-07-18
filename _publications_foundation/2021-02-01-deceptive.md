@@ -4,7 +4,7 @@ collection: publications_foundation
 permalink: /publications/2021-02-01-deceptive
 excerpt: ''
 date: 2021-02-01
-venue: 'Ergo'
+venue: 'Ergo, an Open Access Journal of Philosophy'
 author: 'R Gong, JB Kadane, MJ Schervish, T Seidenfeld, RB Stern'
 
 ---
