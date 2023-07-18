@@ -1,10 +1,10 @@
 ---
-title: "A Gibbs sampler for a class of random convex polytopes"
+title: "A Gibbs sampler for a class of random convex polytopes (with discussion)"
 collection: publications_foundation
 permalink: /publication/2021-08-01-multinomialDS
 excerpt: ''
 date: 2021-08-01
-venue: 'Journal of the American Statistical Association (with discussion)'
+venue: 'Journal of the American Statistical Association'
 author: 'PE Jacob, R Gong, PT Edlefsen, AP Dempster'
 
 ---
