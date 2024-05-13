@@ -20,6 +20,7 @@ Here's [my CV](https://RuobinGong.github.io/files/RG-cv.pdf).
 
 I write a contributed column for the IMS Bulletin, in which I chronicle some enlightening (and mostly delightful) experiences in the statistics profession and data science education.
 
+* Dial $\rho$ for Regulation (and B for Bitcoin) [[link](https://imstat.org/2024/02/15/sound-the-gong-dial-rho-for-regulation-and-b-for-bitcoin/)]
 * Why ChatGPT is like Botox ([link](https://imstat.org/2023/07/16/sound-the-gong-why-chatgpt-is-like-botox/))
 * The laws of the jungle: data science edition ([link](https://imstat.org/2022/12/13/sound-the-gong-the-laws-of-the-jungle-data-science-edition/))
 * In defense of an _Explicandum_ ([link](https://imstat.org/2022/10/01/sound-the-gong-in-defense-of-an-explicandum/))
