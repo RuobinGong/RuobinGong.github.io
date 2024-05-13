@@ -14,11 +14,12 @@ I'm an Assistant Professor of Statistics at [Rutgers University](https://www.sta
 
 <br>
 
-## News
+## Updates
 
-
-* [Foundations of Probability Seminar](https://foundationsofprobabilityseminar.com) continues in Spring 2023!
-* **NBER Workshop Series**: [Data Privacy Protection and the Conduct of Applied Research: Methods, Approaches and their Consequences](https://www.nber.org/conferences/data-privacy-protection-and-conduct-applied-research-methods-approaches-and-their-consequences). May 4-5, 2023, Cambridge, MA. Co-organized with V. Joseph Hotz and Ian Schmutte. 
+* Beginning July 2024, I will be an Associate Professor (with tenure) at the Department of Statistics, Rutgers University.
+* The **Sixth Annual Symposium on Applications of Contextual Integrity** will be held at Rutgers University, September 27-28, 2024. [Call for Participation is Open!](https://privaci.info/symposium/2024/cfp.html) Register an abstract or an intent by June 17, 2024.
+* **NBER Workshop Series**: [Data Privacy Protection and the Conduct of Applied Research: Methods, Approaches and their Consequences](https://www.nber.org/conferences/data-privacy-protection-and-conduct-applied-research-methods-approaches-and-their-consequences). May 16-17, 2024, Washington, DC. Co-organized with V. Joseph Hotz and Ian Schmutte. 
+* [Foundations of Probability Seminar](https://foundationsofprobabilityseminar.com) continues in 2024!
 * Our paper, [Integer Subspace Differential Privacy](https://ruobingong.github.io/publication/2023-02-01-integer-subspace), was selected for oral presentation at **AAAI-23**. Joint work with Prathamesh Dharangutte, Jie Gao, and Fang-Yi Yu.
 * Our paper, [Data Augmentation MCMC for Bayesian Inference from Privatized Data](https://ruobingong.github.io/publication/2022-12-01-DAMCMC), has been accepted at **NeurIPS 2022**. Joint work with Nianqiao Ju, Jordan Awan, and Vinayak Rao.  _Watch my talk about this work at the [Fields Workshop on Differential Privacy and Statistical Data Analysis](http://www.fields.utoronto.ca/talks/Data-Augmentation-MCMC-Bayesian-Inference-Privatized-Data)._ 
 * **Harvard Data Science Review** Special Issue 2 - [Differential Privacy and the 2020 Census: Can We Make Data Both Private and Useful](https://hdsr.mitpress.mit.edu/specialissue2)?  _**Listen to the podcast** with Co-Editors Erica Groshen, Salil Vadhan and myself ([Podbean](https://hdsr.podbean.com/e/differential-privacy-for-the-2020-us-census-can-we-make-data-both-private-and-useful-part-1/)/[Apple](https://podcasts.apple.com/us/podcast/differential-privacy-for-the-2020-u-s-census-can-we/id1558728983?i=1000571597321)/[Spotify](https://open.spotify.com/episode/4A9ahGLv5r58LJX8Alxg19))_
