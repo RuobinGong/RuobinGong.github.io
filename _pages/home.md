@@ -9,14 +9,14 @@ redirect_from:
 ---
 
 
-I'm an Assistant Professor of Statistics at [Rutgers University](https://www.stat.rutgers.edu/people-pages/faculty/people/403-robin-gong). Two branches of my research interests are 1) **foundations of uncertainty reasoning**: Bayesian and generalized Bayesian methodology and computation, random sets, imprecise probability, and Dempster-Shafer theory of belief function; and 2) **statistical privacy**: privacy-aware statistical inference and computational methodologies, and inference-aware privacy and disclosure mechanism design. I hold a status-only appointment with the Department of Statistical Sciences at the [University of Toronto](https://www.statistics.utoronto.ca/people/directories/all-faculty/ruobin-gong). I am currently an associate editor for the [Harvard Data Science Review](https://hdsr.mitpress.mit.edu), for [JASA/TAS Reviews](https://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=uasa20), and for [Statistics and Public Policy](https://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=uspp20). I write a contributed column, _Sound the Gong_, for the [IMS Bulletin](https://imstat.org/category/sound-the-gong/).
+I'm an Associate Professor of Statistics at [Rutgers University](https://www.stat.rutgers.edu/people-pages/faculty/people/403-robin-gong). Two branches of my research interests are 1) **foundations of uncertainty reasoning**: Bayesian and generalized Bayesian methodology and computation, random sets, imprecise probability, and Dempster-Shafer theory of belief function; and 2) **statistical privacy**: privacy-aware statistical inference and computational methodologies, and inference-aware privacy and disclosure mechanism design. I hold a status-only appointment with the Department of Statistical Sciences at the [University of Toronto](https://www.statistics.utoronto.ca/people/directories/all-faculty/ruobin-gong). I am currently an associate editor for the [Harvard Data Science Review](https://hdsr.mitpress.mit.edu), for [JASA/TAS Reviews](https://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=uasa20), and for [Statistics and Public Policy](https://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=uspp20). I write a contributed column, _Sound the Gong_, for the [IMS Bulletin](https://imstat.org/category/sound-the-gong/).
 
 
 <br>
 
 ## Updates
 
-* Beginning July 2024, I will be an Associate Professor (with tenure) at the Department of Statistics, Rutgers University.
+
 * The **Sixth Annual Symposium on Applications of Contextual Integrity** will be held at Rutgers University, September 27-28, 2024. [Call for Participation is Open](https://privaci.info/symposium/2024/cfp.html)! Register an abstract or an intent by June 17 (AoE), 2024.
 * **NBER Workshop Series**: [Data Privacy Protection and the Conduct of Applied Research: Methods, Approaches and their Consequences](https://www.nber.org/conferences/data-privacy-protection-and-conduct-applied-research-methods-approaches-and-their-consequences-spring-2024). May 16-17, 2024, Washington, DC. Co-organized with V. Joseph Hotz and Ian Schmutte. 
 * [Foundations of Probability Seminar](https://foundationsofprobabilityseminar.com) continues in 2024!
