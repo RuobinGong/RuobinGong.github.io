@@ -16,8 +16,8 @@ I'm an Associate Professor of Statistics at [Rutgers University](https://www.sta
 
 ## Updates
 
-
-* The **Sixth Annual Symposium on Applications of Contextual Integrity** will be held at Rutgers University, September 27-28, 2024. [Call for Participation is Open](https://privaci.info/symposium/2024/cfp.html)! Register an abstract or an intent by June 17 (AoE), 2024.
+* Package _dapper_: Data Augmentation for Private Posterior Estimation is now available on [R CRAN!](https://cran.r-project.org/web/packages/dapper/index.html)
+* The **Sixth Annual Symposium on Applications of Contextual Integrity** will be held at Rutgers University, September 27-28, 2024. [Registeration and NSF Student Fellowship application are open!](https://privaci.info/symposium/2024/cfp.html)
 * **NBER Workshop Series**: [Data Privacy Protection and the Conduct of Applied Research: Methods, Approaches and their Consequences](https://www.nber.org/conferences/data-privacy-protection-and-conduct-applied-research-methods-approaches-and-their-consequences-spring-2024). May 16-17, 2024, Washington, DC. Co-organized with V. Joseph Hotz and Ian Schmutte. 
 * [Foundations of Probability Seminar](https://foundationsofprobabilityseminar.com) continues in 2024!
 * Our paper, [Integer Subspace Differential Privacy](https://ruobingong.github.io/publication/2023-02-01-integer-subspace), was selected for oral presentation at **AAAI-23**. Joint work with Prathamesh Dharangutte, Jie Gao, and Fang-Yi Yu.
