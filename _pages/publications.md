@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-For a complete list of publications, please refer to [my CV](https://RuobinGong.github.io/files/RG-cv.pdf).
+For a more complete and up-to-date list of publications, please refer to [my CV](https://RuobinGong.github.io/files/RG-cv.pdf).
 
 ## On inference foundations
 
