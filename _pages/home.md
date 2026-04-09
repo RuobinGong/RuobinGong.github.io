@@ -16,7 +16,9 @@ I'm an Associate Professor of Statistics at [Rutgers University](https://www.sta
 
 ## Updates
 
- ![HGS](images/HGS_NBER.jpg)
+<div style="text-align: center;">
+  <img src="images/HGS_NBER.jpg" alt="HGS_NBER" width="300">
+</div>
  
 * **Forthcoming in October 2026** Data Privacy Protection and the Conduct of Applied Research: Methods, Approaches, and New Findings. Co-edited with V. Joseph Hotz and Ian M. Schmutte. Chicago University Press.
 * **Harvard Data Science Review** Special Issue 6 - [Data Privacy for Social Sciences](https://hdsr.mitpress.mit.edu/specialissue6). Co-edited with J\"org Drechsler, V. Joseph Hotz, and Ian M. Schmutte.
