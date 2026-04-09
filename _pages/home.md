@@ -18,10 +18,10 @@ I'm an Associate Professor of Statistics at [Rutgers University](https://www.sta
 
 <div style="display: flex; justify-content: center; gap: 20px;">
   <a href="https://press.uchicago.edu/ucp/books/book/chicago/D/bo284271586.html">
-    <img src="images/HGS_NBER.jpg" alt="HGS_NBER" height="250">
+    <img src="images/HGS_NBER.jpg" alt="HGS_NBER" height="100">
   </a>
   <a href="https://go.rutgers.edu/mexcrt9y">
-    <img src="images/DS4JD_flyer.png" alt="DS4JD" height="250">
+    <img src="images/DS4JD_flyer.png" alt="DS4JD" height="100">
   </a>
 </div>
  
