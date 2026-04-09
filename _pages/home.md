@@ -16,12 +16,12 @@ I'm an Associate Professor of Statistics at [Rutgers University](https://www.sta
 
 ## Updates
 
-<div style="display: flex; justify-content: center; gap: 10px; align-items: center;">
+<div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
   <a href="https://press.uchicago.edu/ucp/books/book/chicago/D/bo284271586.html">
-    <img src="images/HGS_NBER.jpg" alt="HGS_NBER" style="height: 200px; width: auto;">
+    <img src="images/HGS_NBER.jpg" alt="HGS_NBER" style="height: 400px; width: auto;">
   </a>
   <a href="https://go.rutgers.edu/mexcrt9y">
-    <img src="images/DS4JD_flyer.png" alt="DS4JD" style="height: 200px; width: auto;">
+    <img src="images/DS4JD_flyer.png" alt="DS4JD" style="height: 400px; width: auto;">
   </a>
 </div>
  
