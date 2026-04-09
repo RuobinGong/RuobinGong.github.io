@@ -20,7 +20,7 @@ I'm an Associate Professor of Statistics at [Rutgers University](https://www.sta
   <img src="images/HGS_NBER.jpg" alt="HGS_NBER" width="300">
 </div>
  
-* **Forthcoming in October 2026**: _Data Privacy Protection and the Conduct of Applied Research: Methods, Approaches, and New Findings_. Co-edited with V. Joseph Hotz and Ian M. Schmutte. The University of Chicago Press.
+* **Forthcoming in October 2026**: _Data Privacy Protection and the Conduct of Applied Research: Methods, Approaches, and New Findings_. The University of Chicago Press.
 * **Harvard Data Science Review** Special Issue 6 - [Data Privacy for Social Sciences](https://hdsr.mitpress.mit.edu/specialissue6). Co-edited with Jörg Drechsler, V. Joseph Hotz, and Ian M. Schmutte.
 * Package _dapper_: Data Augmentation for Private Posterior Estimation is now available on [R CRAN!](https://cran.r-project.org/web/packages/dapper/index.html)
 * The **Sixth Annual Symposium on Applications of Contextual Integrity** will be held at Rutgers University, September 27-28, 2024. [Registeration and NSF Student Fellowship application are open!](https://privaci.info/symposium/2024/cfp.html)
